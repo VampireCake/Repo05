@@ -1,6 +1,6 @@
 function main(){
-     var myString="Jello World"
-     myString="Hello World"
+     var myString="Jello World";
+     myString="Hello World";
     return myString;
 }
 console.log(main())
